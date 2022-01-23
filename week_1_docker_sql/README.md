@@ -42,3 +42,47 @@ FROM yellow_taxi_trips
 GROUP by dt
 HAVING DATE(tpep_pickup_datetime) = '2021-01-15';
 ```
+
+On which day it was the largest tip in January? (note: it's not a typo, it's "tip", not "trip")
+
+```sql
+SELECT DATE(tpep_pickup_datetime) as dt,
+       max(tip_amount) as tip
+FROM yellow_taxi_trips
+GROUP by dt
+ORDER BY tip desc
+LIMIT 1;
+```
+
+Most popular destination
+
+```sql
+SELECT t1."DOLocationID",
+       t3."Zone",
+	   count(*) as cnt
+FROM yellow_taxi_trips as t1
+JOIN taxi_zone as t2 on t2."LocationID" = t1."PULocationID"
+JOIN taxi_zone as t3 on t3."LocationID" = t1."DOLocationID"
+WHERE DATE(t1.tpep_pickup_datetime) = '2021-01-14'
+AND t2."Zone" = 'Central Park'
+GROUP BY t1."DOLocationID",
+       t3."Zone"
+ORDER BY cnt desc
+LIMIT 1;
+```
+
+Most expensive route
+
+```sql
+SELECT CONCAT(CASE WHEN t2."Zone" IS NULL THEN 'Unknown' ELSE t2."Zone" END,
+			  '/', 
+			  CASE WHEN t3."Zone" IS NULL THEN 'Unknown' ELSE t3."Zone" END) as pair_pu_do,
+	   avg(t1.total_amount) as avg_total_amount
+FROM yellow_taxi_trips as t1
+JOIN taxi_zone as t2 on t2."LocationID" = t1."PULocationID"
+JOIN taxi_zone as t3 on t3."LocationID" = t1."DOLocationID"
+GROUP BY pair_pu_do
+ORDER BY avg_total_amount desc
+LIMIT 1
+;
+```
