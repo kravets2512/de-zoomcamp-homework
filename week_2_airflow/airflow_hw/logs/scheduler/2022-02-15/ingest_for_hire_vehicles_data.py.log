@@ -1,0 +1,182 @@
+[2022-02-15 15:33:36,906] {processor.py:163} INFO - Started process (PID=166) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:33:36,910] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:33:36,914] {logging_mixin.py:109} INFO - [2022-02-15 15:33:36,914] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:33:37,964] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:33:38,092] {logging_mixin.py:109} INFO - [2022-02-15 15:33:38,092] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:33:38,161] {logging_mixin.py:109} INFO - [2022-02-15 15:33:38,161] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:33:38,210] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.306 seconds
+[2022-02-15 15:34:08,479] {processor.py:163} INFO - Started process (PID=190) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:08,691] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:34:08,700] {logging_mixin.py:109} INFO - [2022-02-15 15:34:08,699] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:09,165] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:09,178] {logging_mixin.py:109} INFO - [2022-02-15 15:34:09,177] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:34:09,201] {logging_mixin.py:109} INFO - [2022-02-15 15:34:09,201] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:34:09,209] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.734 seconds
+[2022-02-15 15:34:39,738] {processor.py:163} INFO - Started process (PID=214) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:39,762] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:34:39,770] {logging_mixin.py:109} INFO - [2022-02-15 15:34:39,770] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:41,005] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:34:41,133] {logging_mixin.py:109} INFO - [2022-02-15 15:34:41,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:34:41,330] {logging_mixin.py:109} INFO - [2022-02-15 15:34:41,330] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:34:41,389] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.654 seconds
+[2022-02-15 15:35:11,560] {processor.py:163} INFO - Started process (PID=238) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:11,570] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:35:11,580] {logging_mixin.py:109} INFO - [2022-02-15 15:35:11,580] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:11,882] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:11,910] {logging_mixin.py:109} INFO - [2022-02-15 15:35:11,910] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:35:11,930] {logging_mixin.py:109} INFO - [2022-02-15 15:35:11,930] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:35:11,959] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.401 seconds
+[2022-02-15 15:35:42,366] {processor.py:163} INFO - Started process (PID=262) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:42,380] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:35:42,380] {logging_mixin.py:109} INFO - [2022-02-15 15:35:42,380] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:42,701] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:35:42,715] {logging_mixin.py:109} INFO - [2022-02-15 15:35:42,715] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:35:42,737] {logging_mixin.py:109} INFO - [2022-02-15 15:35:42,737] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:35:42,764] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.401 seconds
+[2022-02-15 15:36:13,103] {processor.py:163} INFO - Started process (PID=286) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:13,118] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:36:13,121] {logging_mixin.py:109} INFO - [2022-02-15 15:36:13,120] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:13,498] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:13,517] {logging_mixin.py:109} INFO - [2022-02-15 15:36:13,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:36:13,536] {logging_mixin.py:109} INFO - [2022-02-15 15:36:13,536] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:36:13,554] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.455 seconds
+[2022-02-15 15:36:44,013] {processor.py:163} INFO - Started process (PID=310) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:44,030] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:36:44,031] {logging_mixin.py:109} INFO - [2022-02-15 15:36:44,031] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:44,327] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:36:44,346] {logging_mixin.py:109} INFO - [2022-02-15 15:36:44,345] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:36:44,365] {logging_mixin.py:109} INFO - [2022-02-15 15:36:44,365] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:36:44,382] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.372 seconds
+[2022-02-15 15:37:14,691] {processor.py:163} INFO - Started process (PID=334) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:14,703] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:37:14,710] {logging_mixin.py:109} INFO - [2022-02-15 15:37:14,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:15,043] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:15,061] {logging_mixin.py:109} INFO - [2022-02-15 15:37:15,061] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:37:15,081] {logging_mixin.py:109} INFO - [2022-02-15 15:37:15,081] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:37:15,099] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.411 seconds
+[2022-02-15 15:37:45,525] {processor.py:163} INFO - Started process (PID=358) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:45,530] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:37:45,531] {logging_mixin.py:109} INFO - [2022-02-15 15:37:45,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:45,831] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:37:45,844] {logging_mixin.py:109} INFO - [2022-02-15 15:37:45,844] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:37:45,866] {logging_mixin.py:109} INFO - [2022-02-15 15:37:45,866] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:37:45,889] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.366 seconds
+[2022-02-15 15:38:15,958] {processor.py:163} INFO - Started process (PID=382) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:15,970] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:38:15,971] {logging_mixin.py:109} INFO - [2022-02-15 15:38:15,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:16,293] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:16,311] {logging_mixin.py:109} INFO - [2022-02-15 15:38:16,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:38:16,335] {logging_mixin.py:109} INFO - [2022-02-15 15:38:16,335] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:38:16,360] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.405 seconds
+[2022-02-15 15:38:46,794] {processor.py:163} INFO - Started process (PID=412) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:46,797] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:38:46,797] {logging_mixin.py:109} INFO - [2022-02-15 15:38:46,797] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:47,231] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:38:47,269] {logging_mixin.py:109} INFO - [2022-02-15 15:38:47,269] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:38:47,300] {logging_mixin.py:109} INFO - [2022-02-15 15:38:47,300] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:38:47,314] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.523 seconds
+[2022-02-15 15:39:17,773] {processor.py:163} INFO - Started process (PID=454) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:17,784] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:39:17,788] {logging_mixin.py:109} INFO - [2022-02-15 15:39:17,788] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:18,276] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:18,306] {logging_mixin.py:109} INFO - [2022-02-15 15:39:18,305] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:39:18,333] {logging_mixin.py:109} INFO - [2022-02-15 15:39:18,333] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:39:18,360] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.589 seconds
+[2022-02-15 15:39:48,666] {processor.py:163} INFO - Started process (PID=504) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:48,669] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:39:48,685] {logging_mixin.py:109} INFO - [2022-02-15 15:39:48,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:49,796] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:39:49,915] {logging_mixin.py:109} INFO - [2022-02-15 15:39:49,914] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:39:49,975] {logging_mixin.py:109} INFO - [2022-02-15 15:39:49,975] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:39:50,007] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.359 seconds
+[2022-02-15 15:40:20,613] {processor.py:163} INFO - Started process (PID=550) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:20,624] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:40:20,625] {logging_mixin.py:109} INFO - [2022-02-15 15:40:20,625] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:21,193] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:21,224] {logging_mixin.py:109} INFO - [2022-02-15 15:40:21,224] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:40:21,267] {logging_mixin.py:109} INFO - [2022-02-15 15:40:21,267] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:40:21,292] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.683 seconds
+[2022-02-15 15:40:51,740] {processor.py:163} INFO - Started process (PID=616) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:51,747] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:40:51,748] {logging_mixin.py:109} INFO - [2022-02-15 15:40:51,747] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:52,395] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:40:52,426] {logging_mixin.py:109} INFO - [2022-02-15 15:40:52,426] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:40:52,513] {logging_mixin.py:109} INFO - [2022-02-15 15:40:52,513] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:40:52,544] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.808 seconds
+[2022-02-15 15:41:23,237] {processor.py:163} INFO - Started process (PID=670) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:23,243] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:41:23,246] {logging_mixin.py:109} INFO - [2022-02-15 15:41:23,246] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:23,665] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:23,723] {logging_mixin.py:109} INFO - [2022-02-15 15:41:23,722] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:41:23,795] {logging_mixin.py:109} INFO - [2022-02-15 15:41:23,794] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:41:23,821] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.616 seconds
+[2022-02-15 15:41:54,468] {processor.py:163} INFO - Started process (PID=748) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:54,490] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:41:54,491] {logging_mixin.py:109} INFO - [2022-02-15 15:41:54,491] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:55,654] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:41:55,695] {logging_mixin.py:109} INFO - [2022-02-15 15:41:55,695] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:41:55,732] {logging_mixin.py:109} INFO - [2022-02-15 15:41:55,732] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:41:55,768] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.304 seconds
+[2022-02-15 15:42:26,279] {processor.py:163} INFO - Started process (PID=802) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:26,293] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:42:26,294] {logging_mixin.py:109} INFO - [2022-02-15 15:42:26,294] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:26,959] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:26,990] {logging_mixin.py:109} INFO - [2022-02-15 15:42:26,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:42:27,061] {logging_mixin.py:109} INFO - [2022-02-15 15:42:27,061] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:42:27,163] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.886 seconds
+[2022-02-15 15:42:57,744] {processor.py:163} INFO - Started process (PID=861) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:57,751] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:42:57,771] {logging_mixin.py:109} INFO - [2022-02-15 15:42:57,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:58,981] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:42:59,007] {logging_mixin.py:109} INFO - [2022-02-15 15:42:59,007] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:42:59,061] {logging_mixin.py:109} INFO - [2022-02-15 15:42:59,061] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:42:59,154] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.412 seconds
+[2022-02-15 15:43:29,337] {processor.py:163} INFO - Started process (PID=928) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:43:29,349] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:43:29,350] {logging_mixin.py:109} INFO - [2022-02-15 15:43:29,350] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:43:29,936] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:43:29,972] {logging_mixin.py:109} INFO - [2022-02-15 15:43:29,972] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:43:30,022] {logging_mixin.py:109} INFO - [2022-02-15 15:43:30,022] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:43:30,034] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.700 seconds
+[2022-02-15 15:44:00,545] {processor.py:163} INFO - Started process (PID=996) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:00,553] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:44:00,561] {logging_mixin.py:109} INFO - [2022-02-15 15:44:00,561] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:01,320] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:01,364] {logging_mixin.py:109} INFO - [2022-02-15 15:44:01,363] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:44:01,410] {logging_mixin.py:109} INFO - [2022-02-15 15:44:01,409] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:44:01,452] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.950 seconds
+[2022-02-15 15:44:31,791] {processor.py:163} INFO - Started process (PID=1084) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:31,795] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:44:31,795] {logging_mixin.py:109} INFO - [2022-02-15 15:44:31,795] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:32,100] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:44:32,116] {logging_mixin.py:109} INFO - [2022-02-15 15:44:32,116] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:44:32,141] {logging_mixin.py:109} INFO - [2022-02-15 15:44:32,141] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:44:32,158] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.369 seconds
+[2022-02-15 15:45:02,792] {processor.py:163} INFO - Started process (PID=1178) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:02,810] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:45:02,811] {logging_mixin.py:109} INFO - [2022-02-15 15:45:02,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:03,671] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:03,726] {logging_mixin.py:109} INFO - [2022-02-15 15:45:03,726] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:45:03,796] {logging_mixin.py:109} INFO - [2022-02-15 15:45:03,796] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:45:03,826] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 1.060 seconds
+[2022-02-15 15:45:34,390] {processor.py:163} INFO - Started process (PID=1216) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:34,400] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:45:34,401] {logging_mixin.py:109} INFO - [2022-02-15 15:45:34,400] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:34,770] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:45:34,789] {logging_mixin.py:109} INFO - [2022-02-15 15:45:34,788] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:45:34,814] {logging_mixin.py:109} INFO - [2022-02-15 15:45:34,814] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:45:34,840] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.454 seconds
+[2022-02-15 15:46:06,009] {processor.py:163} INFO - Started process (PID=1274) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:06,011] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:46:06,011] {logging_mixin.py:109} INFO - [2022-02-15 15:46:06,011] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:06,414] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:06,443] {logging_mixin.py:109} INFO - [2022-02-15 15:46:06,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:46:06,496] {logging_mixin.py:109} INFO - [2022-02-15 15:46:06,496] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:46:06,523] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.517 seconds
+[2022-02-15 15:46:36,842] {processor.py:163} INFO - Started process (PID=1304) to work on /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:36,844] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_for_hire_vehicles_data.py for tasks to queue
+[2022-02-15 15:46:36,844] {logging_mixin.py:109} INFO - [2022-02-15 15:46:36,844] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:37,143] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_for_hire_vehicles']) retrieved from /opt/airflow/dags/ingest_for_hire_vehicles_data.py
+[2022-02-15 15:46:37,159] {logging_mixin.py:109} INFO - [2022-02-15 15:46:37,158] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:46:37,189] {logging_mixin.py:109} INFO - [2022-02-15 15:46:37,189] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_for_hire_vehicles to None
+[2022-02-15 15:46:37,214] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_for_hire_vehicles_data.py took 0.375 seconds
