@@ -131,3 +131,10 @@
 [2022-02-15 15:47:39,557] {logging_mixin.py:109} INFO - [2022-02-15 15:47:39,557] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-15 15:47:39,569] {logging_mixin.py:109} INFO - [2022-02-15 15:47:39,569] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_green_taxi_data to None
 [2022-02-15 15:47:39,589] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_green_taxi_data.py took 0.204 seconds
+[2022-02-15 15:48:09,683] {processor.py:163} INFO - Started process (PID=1405) to work on /opt/airflow/dags/ingest_green_taxi_data.py
+[2022-02-15 15:48:09,684] {processor.py:642} INFO - Processing file /opt/airflow/dags/ingest_green_taxi_data.py for tasks to queue
+[2022-02-15 15:48:09,685] {logging_mixin.py:109} INFO - [2022-02-15 15:48:09,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_green_taxi_data.py
+[2022-02-15 15:48:09,914] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_green_taxi_data']) retrieved from /opt/airflow/dags/ingest_green_taxi_data.py
+[2022-02-15 15:48:09,942] {logging_mixin.py:109} INFO - [2022-02-15 15:48:09,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-15 15:48:09,974] {logging_mixin.py:109} INFO - [2022-02-15 15:48:09,974] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_green_taxi_data to None
+[2022-02-15 15:48:09,993] {processor.py:171} INFO - Processing /opt/airflow/dags/ingest_green_taxi_data.py took 0.313 seconds
